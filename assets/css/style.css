@@ -1,0 +1,22 @@
+/* Estilos do site*/
+
+.cor {
+    color: blue;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+
+/* Estilos do site
