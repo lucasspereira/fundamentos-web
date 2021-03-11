@@ -4,18 +4,53 @@
     color: blue;
 }
 
-.container {
-    display: flex;
-    flex-direction: row;
-    text-align: center;
+.menu li {
+    display: inline;
+    padding: 30px;
     justify-content: center;
 }
 
 .container1 {
     display: flex;
-    flex-direction: row;
-    text-align: center;
+    align-items: center;
     justify-content: center;
+}
+
+.center {
+    text-align: center;
+}
+
+#menu li a {
+    text-decoration: none;
+}
+
+.padding {
+    padding: 30px;
+    width: 500px;
+    text-align: justify;
+}
+
+.border {
+    border-radius: 90%;
+}
+
+.social {
+    width: 30px;
+    height: 40px;
+    padding: 10px;
+}
+
+.paddingContato {
+    padding: 30px;
+}
+
+.fonte {
+    font-weight: bold;
+    margin: 50px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
 }
 
 
